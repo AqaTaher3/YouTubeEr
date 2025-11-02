@@ -1,0 +1,27 @@
+{
+  "download_path": "B:\\Video\\YouTube",
+  "videos": [
+    {
+      "id": "obsidian_guide",
+      "title": "Obsidian: The King of Learning Tools",
+      "url": "https://www.youtube.com/watch?v=hSTy_BInQs8",
+      "download_format": "bestvideo+bestaudio",
+      "enabled": true,
+      "subtitles": {
+        "enabled": true,
+        "languages": ["en"]
+      }
+    },
+    {
+      "id": "note_taking",
+      "title": "Best Note Taking Apps 2024",
+      "url": "https://www.youtube.com/watch?v=xxxxxxx",
+      "download_format": "best",
+      "enabled": false,
+      "subtitles": {
+        "enabled": false,
+        "languages": ["en"]
+      }
+    }
+  ]
+}
