@@ -29,7 +29,7 @@ def download_videos(config_path: str):
         cmd = [
             "yt-dlp",
             "-f", vid["download_format"],
-            "-o", str(download_path / f"{vid['id']}.%(ext)s"),
+            "-o", str(download_path / f"{vid['title']}.%(ext)s"),  # اصلاح: استفاده از عنوان به جای آیدی
             vid["url"]
         ]
 
