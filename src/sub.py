@@ -31,3 +31,10 @@ with open("subtitle_bilingual.srt", "w", encoding="utf-8") as f:
         f.write(f"{i}\n{srt_time(start)} --> {srt_time(end)}\n{text_en}\n{text_fa}\n\n")
 
 print("✅ زیرنویس دو زبانه ساخته شد: subtitle_bilingual.srt")
+
+# https://www.youtube.com/watch?v=z4AbijUCoKU
+# https://www.youtube.com/watch?v=UQN63sucxA4
+# https://www.youtube.com/watch?v=6iiqR4UGZqM
+# https://www.youtube.com/watch?v=1XMBQN9WFyg
+#  first sub
+# https://www.youtube.com/watch?v=hSTy_BInQs8&t=332s
